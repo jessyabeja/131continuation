@@ -1,0 +1,49 @@
+body{
+    background-image: ("bg.webp");
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.bedrom
+{
+margin: 0px;
+top: 50px;
+font-size: 20px;
+border-radius: 20px;
+width: 20%;
+background-color: violet;
+}
+.tvc
+{
+font-size: 20px;
+border-radius: 20px;
+width: 20%;
+background-color: violet;
+}
+.bottles
+{
+font-size: 20px;
+border-radius: 20px;
+width: 20%;
+background-color: violet;
+}
+.fruits
+{
+font-size: 20px;
+border-radius: 20px;
+width: 20%;
+background-color: violet;
+}
+
+canvas{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+}
+
